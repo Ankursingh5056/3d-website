@@ -1,0 +1,28 @@
+[
+  {
+  "label" : "/",
+  "link" : "Home"
+},
+{
+  "label" : "/design",
+  "link" : "Design"
+},
+{
+  "label" : "/buyer",
+  "link" : "Buyer"
+},
+{
+  "label" : "/seller",
+  "link" : "Seller"
+},
+{
+  "label" : "/about",
+  "link" : "About"
+},
+{
+  "label" : "/contact",
+  "link" : "Contact"
+}
+
+
+]
